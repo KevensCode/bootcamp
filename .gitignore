@@ -1,0 +1,7 @@
+.DS_Store
+bin/
+obj/
+.vs/
+*.user
+# Repos cloned for bug-squash drills stay out of this repo
+drills/*/repo/
